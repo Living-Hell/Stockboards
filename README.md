@@ -39,7 +39,7 @@ StockBoard revolutionizes the way you interact with stock market data. By provid
 
 ## Start building your ultimate stock market dashboard today with StockBoard—where data meets simplicity.
 
-## Checkout Stockboard: [Link](stockboards.vercel.app)
+## Checkout Stockboard: [Link](https://stockboards.vercel.app/)
 
 ## Tech-Stack Used:
 

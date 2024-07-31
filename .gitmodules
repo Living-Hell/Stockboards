@@ -1,0 +1,3 @@
+[submodule "Stockboards-Frontend"]
+	path = Stockboards-Frontend
+	url = https://github.com/Living-Hell/Stockboards-Frontend.git

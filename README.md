@@ -53,8 +53,8 @@ StockBoard revolutionizes the way you interact with stock market data. By provid
 
 ### Backend
 
-- Rust/Golang
-- Java Spring Boot
+- Rust
+- Golang
 
 ### Databases
 

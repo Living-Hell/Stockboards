@@ -41,6 +41,8 @@ StockBoard revolutionizes the way you interact with stock market data. By provid
 
 ## Checkout Stockboard: [Link](https://stockboards.vercel.app/)
 
+## UI Designs and Architecture/Workflows: [Figma](https://www.figma.com/design/RTODs3deEzwxZOFduHz7KA/No-Code-Dashboards?node-id=0-1&t=JzVKygc8nXbPpKZc-1)
+
 ## Tech-Stack Used:
 
 ### Frontend
